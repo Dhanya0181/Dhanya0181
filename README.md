@@ -6,7 +6,7 @@
 
 🌟 My professional goal is to deepen my expertise in Embedded Systems, VLSI, Machine Learning, and TinyML. I'm enthusiastic about contributing to cutting-edge projects that push the boundaries of innovation in these fields.
 
-🌐 My ultimate dream is to be at the forefront of creating intelligent, connected systems. I aspire to contribute to the development of a chip that efficiently utilizes various Machine Learning algorithms.
+🌐 My ultimate dream is to be at the forefront of creating intelligent, connected systems. I aspire to contribute to the development of a chip that efficiently utilizes various Machine Learning algorithms someday.
 
 🔍 You can find my projects and contributions in Embedded Systems, VLSI, Machine Learning, and more on my GitHub profile. Let's connect and explore the possibilities together!
 
