@@ -1,6 +1,6 @@
 👋 Hi, I’m Dhanya!
 
-🎓 I hold a degree in Electronics and Communication Engineering with a Minor in Machine Learning with a focus on VLSI, Digital System Design, and Embedded Systems. My academic journey fueled my curiosity for understanding the intricacies of how things work, especially in the realm of hardware design.
+🎓 I am a graduate in Electronics and Communication Engineering with a Minor in Machine Learning. I am passionate about VLSI, Digital System Design, and Embedded Systems. My academic journey fueled my curiosity for understanding the intricacies of how things work, especially in the realm of hardware design.
 
 🤖 My fascination with the Machine Learning grew when I saw its ability to revolutionize industries . I'm passionate about crafting smart, data-driven solutions that can drive positive changes in the world.
 
